@@ -72,7 +72,7 @@ The frontend should run on `http://localhost:3000`.
 
 - **Frontend:** React, React Router, HTML/CSS
 - **Backend:** Node.js, Express
-- **Database:** (Add here if using MongoDB, PostgreSQL, etc.)
+- **Database:** MongoDB
 
 ---
 
